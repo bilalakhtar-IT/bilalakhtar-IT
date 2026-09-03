@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Bilal Akhtar
 
-<!--
-**bilalakhtar-IT/bilalakhtar-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student building practical projects to develop my technical skills in IT support, helpdesk, troubleshooting, networking, system administration, and etc.
 
-Here are some ideas to get you started:
+Currently I'm building projects and hands on labs to enhance my technical skills and prepare myself for the IT industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Interests
+
+- IT Support
+- Helpdesk
+- Troubleshooting
+- Technical Documentation
+- Networking
+- Active Directory
+
+## Projects
+
+View my projects/repos below:
+[IT Troubleshooting Runbook](https://github.com/bilalakhtar-IT/it-troubleshooting-runbook)
