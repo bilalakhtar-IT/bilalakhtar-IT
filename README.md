@@ -6,12 +6,14 @@ Currently I'm building projects and hands on labs to enhance my technical skills
 
 ## Skills & Interests
 
-- IT Support
-- Helpdesk
-- Troubleshooting
-- Technical Documentation
-- Networking
-- Active Directory
+**Technical**
+- Windows troubleshooting
+- Active Directory (account management, unlocks, permissions)
+- Networking (DNS, DHCP, VPN, connectivity issues)
+**Process & Documentation**
+- Ticket documentation and escalation procedures
+- Technical research and sourcing credible references
+- Git & version control (GitHub)
 
 ## Projects
 
