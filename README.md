@@ -20,6 +20,6 @@ Currently I'm building projects and hands on labs to enhance my technical skills
 
 View my projects/repos below:
 
-[IT Troubleshooting Runbook](https://github.com/bilalakhtar-IT/it-troubleshooting-runbook)
+- [IT Troubleshooting Runbook](https://github.com/bilalakhtar-IT/it-troubleshooting-runbook)
 
-[IT Asset Inventory](https://github.com/bilalakhtar-IT/it-asset-inventory)
+- [IT Asset Inventory](https://github.com/bilalakhtar-IT/it-asset-inventory)
